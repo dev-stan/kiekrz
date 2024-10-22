@@ -1,8 +1,12 @@
 # Lista Zadań do Wykonania
 
-## Braki do Rozwiązania
 
-### Upewnić się, że zostały dostarczone:
+## Na miejscu
+
+- Wydawać dyplomy
+- Karty z umiejętnościami, żeby dzieciaki wypełniały
+
+## Upewnić się, że zostały dostarczone:
 
 - Karta uczestnika
 - Potwierdzenie uczestnictwa
@@ -57,6 +61,7 @@
 - Ułożenie wszystkiego
 - Ułożyć ofertę Puck
 - Sklep internetowy z kategorią sprzęt i inne itemki - gotowe do udostępnienia na sezon
+- Zakładka "Pracuj z nami" na stronie
 
 ## Przydałoby się
 
@@ -71,9 +76,12 @@
 ## Klub - ośrodek
 - Zorganizować, żeby był porządek w klubie
 - Dopilnować, żeby absolutnie zawsze ktoś był przy dzieciach - dopracować bezpieczeństwo
-- Więcej szkoleń dla kadry
+- Szkolenia dla kadry
 - Spisać procedury dla kadry
 - Więcej chierarchii
 - Zrobić dyżury - nie ma siedzenia w olejówie
 
-
+## Kadra
+- Ogarnąć kadrę ( znaleźć potencjalnego kierownika )
+- Potencjalnie Podzielić na kierownika półkoloni i kierownika zespołu
+- Temat do przegadania z olafem, cala struktura
