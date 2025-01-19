@@ -1,6 +1,6 @@
 # Lista Zadań do Wykonania
 
-# Stachu
+# Stachu - 7 luty
 
 - [ ] Task 1: Karta uczestnika
 - [ ] Task 2: Weryfikacja platnosci
