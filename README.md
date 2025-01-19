@@ -1,5 +1,11 @@
 # Lista Zadań do Wykonania
 
+# Stachu
+
+- [ ] Task 1: Karta uczestnika
+- [ ] Task 2: Weryfikacja platnosci
+- [ ] Task 3: opcja dodaj fakture ( krzychu przygotuje google docs )
+- [ ] Task 4: Weryfikacja listy uczestnikow
 
 ## Na miejscu
 
